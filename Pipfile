@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-rsa = "==3.4"
+rsa = "==4.7"
 requests = "==2.2.1"
 feedparser = "==6.0.8"
 pycrypto = "==2.4"
